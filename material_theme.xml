@@ -1,0 +1,7 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="compactSidebar" value="true" />
+  </component>
+</application>
