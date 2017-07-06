@@ -1,16 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="base" type="Docker file" />
-      <mapping pattern="nodejs" type="Docker file" />
-      <mapping ext="tpl" type="Jinja2" />
-      <mapping pattern="source" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="decrypted_multipart_body-old" type="PLAIN_TEXT" />
+      <mapping pattern="encrypted_multipart_body-old" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping ext="10" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping pattern="encrypted_multipart_body" type="PLAIN_TEXT" />
+      <mapping pattern="auth_service_client" type="PLAIN_TEXT" />
+      <mapping pattern="decrypted_multipart_body" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="apex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
