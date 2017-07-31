@@ -4,7 +4,7 @@
     <property name="created">2017-07-27T21:18:45</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.0.0</property>
-    <property name="modified">2017-07-27T21:23:09</property>
+    <property name="modified">2017-07-31T14:00:54</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2164,7 +2164,7 @@
     </option>
     <option name="RUBY_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="6e6e6e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
