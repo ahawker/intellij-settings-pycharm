@@ -9,8 +9,6 @@
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping pattern="base" type="Docker file" />
-      <mapping pattern="nodejs" type="Docker file" />
     </extensionMap>
   </component>
 </application>
