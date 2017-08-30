@@ -5,9 +5,10 @@
       <mapping ext="tpl" type="Jinja2" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
