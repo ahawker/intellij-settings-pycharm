@@ -4,9 +4,11 @@
     <extensionMap>
       <mapping ext="tpl" type="Jinja2" />
       <mapping pattern="source" type="PLAIN_TEXT" />
+      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="routable" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
