@@ -7,6 +7,7 @@
       <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="routable" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
