@@ -9,10 +9,12 @@
       <mapping pattern="conversation-loader" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="person-loader" type="PLAIN_TEXT" />
       <mapping pattern=".hadolint" type="PLAIN_TEXT" />
       <mapping pattern="email" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="device-loader" type="PLAIN_TEXT" />
       <mapping pattern="routable" type="PLAIN_TEXT" />
       <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern="app-loader" type="PLAIN_TEXT" />
