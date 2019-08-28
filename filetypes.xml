@@ -3,26 +3,26 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="tpl" type="Jinja2" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern="status" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="conversation-loader" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
-      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern="person-loader" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".hadolint" type="PLAIN_TEXT" />
       <mapping pattern="email" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="app-loader" type="PLAIN_TEXT" />
       <mapping pattern="device-loader" type="PLAIN_TEXT" />
       <mapping pattern="routable" type="PLAIN_TEXT" />
-      <mapping pattern="flower" type="PLAIN_TEXT" />
-      <mapping pattern="app-loader" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
