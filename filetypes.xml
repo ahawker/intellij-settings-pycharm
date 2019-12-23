@@ -23,6 +23,7 @@
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
+      <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="bk" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
