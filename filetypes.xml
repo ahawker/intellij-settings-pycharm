@@ -20,6 +20,7 @@
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="py1" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
