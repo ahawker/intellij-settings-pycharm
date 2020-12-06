@@ -12,13 +12,17 @@
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".hadolint" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversion.cfg" type="PLAIN_TEXT" />
+      <mapping pattern=".env.zapier" type="PLAIN_TEXT" />
       <mapping pattern="routable" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="device-loader" type="PLAIN_TEXT" />
+      <mapping pattern=".env.nginx" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="email" type="PLAIN_TEXT" />
       <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern=".env.redis" type="PLAIN_TEXT" />
+      <mapping pattern=".env.postgres" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
