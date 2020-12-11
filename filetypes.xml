@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="tpl" type="Jinja2" />
+      <mapping pattern=".env.postgres" type="PLAIN_TEXT" />
       <mapping pattern="person-loader" type="PLAIN_TEXT" />
       <mapping pattern="ping" type="PLAIN_TEXT" />
       <mapping pattern="conversation-loader" type="PLAIN_TEXT" />
@@ -19,10 +20,9 @@
       <mapping pattern=".env.nginx" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="email" type="PLAIN_TEXT" />
-      <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="flower" type="PLAIN_TEXT" />
       <mapping pattern=".env.redis" type="PLAIN_TEXT" />
-      <mapping pattern=".env.postgres" type="PLAIN_TEXT" />
       <mapping ext="scss" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
       <mapping ext="bkup" type="PLAIN_TEXT" />
