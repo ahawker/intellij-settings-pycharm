@@ -5,10 +5,10 @@
       <mapping ext="tpl" type="Jinja2" />
       <mapping pattern=".env.postgres" type="PLAIN_TEXT" />
       <mapping pattern="person-loader" type="PLAIN_TEXT" />
-      <mapping pattern="conversation-loader" type="PLAIN_TEXT" />
       <mapping pattern="ping" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="conversation-loader" type="PLAIN_TEXT" />
       <mapping pattern="app-loader" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".hadolint" type="PLAIN_TEXT" />
